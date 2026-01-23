@@ -1,12 +1,12 @@
 # Titanic-ML-Project
 
-## 📊 Project Overview
+## Project Overview
 This project is based on the classic [Kaggle Titanic: Machine Learning from Disaster competition](https://www.kaggle.com/competitions/titanic).  
 
-## 🏆 Goal
+## Goal
 The goal was to **predict which passengers survived** the Titanic shipwreck using **machine learning models**.
 
-## 📦 Project structure
+## Project structure
 - Loading and exploring the dataset  
 - Performing feature engineering  
 - Building and comparing multiple models:
@@ -24,10 +24,10 @@ My ensemble model achieved an accuracy of **0.78229** on the test set with unkno
 
 Additionally, I added a simple neural network built using PyTorch. It achieved an accuracy of **0.75837**.
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python (pandas, numpy)
 - scikit-learn
 - PyTorch
 
-## 🤝 Contributions
+## Contributions
 This project was completed individually.
