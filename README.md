@@ -1,4 +1,4 @@
-# Titanic-ML-Project
+# Titanic-Training-Platform
 
 An interactive machine learning application built with Streamlit to predict passenger survival on the Titanic. This tool provides a user-friendly interface for training, tuning, and evaluating different classification models without touching the code.
 
@@ -26,7 +26,7 @@ The primary goal of this project is to elevate the standard Titanic analysis by 
 
 ## Project Structure
 ```
-Titanic-ML-Project/
+Titanic-Training-Platform/
 ├── app.py                # Main Streamlit application 
 ├── preprocessing.py      # Feature engineering &  pipelines
 ├── training.py           # Model definitions and GridSearch setup
@@ -42,8 +42,8 @@ Titanic-ML-Project/
 1. Clone the repository
 
 ```Bash
-git clone https://github.com/pitygiusz/Titanic-ML-Project
-cd Titanic-ML-Project
+git clone https://github.com/pitygiusz/Titanic-Training-Platform
+cd Titanic-Training-Platform
 ```
 
 2. Install dependencies
