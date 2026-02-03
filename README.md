@@ -2,7 +2,7 @@
 
 An interactive machine learning application built with Streamlit to predict passenger survival on the Titanic. This tool provides a user-friendly interface for training, tuning, and evaluating different classification models without touching the code.
 
-**Live Demo:** [Titanic Training Platform](https://pitygiusz-titanic-ml-project.streamlit.app/)
+**Live Demo:** [Titanic Training Platform](https://titanic-training-platform.streamlit.app/)
 
 ## Goal
 
